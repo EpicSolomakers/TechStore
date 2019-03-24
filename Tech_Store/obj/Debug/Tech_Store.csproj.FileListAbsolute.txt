@@ -1,0 +1,13 @@
+C:\Users\Ckr\source\repos\Tech_Store\Tech_Store\bin\Debug\Tech_Store.exe
+C:\Users\Ckr\source\repos\Tech_Store\Tech_Store\bin\Debug\Tech_Store.pdb
+C:\Users\Ckr\source\repos\Tech_Store\Tech_Store\obj\Debug\Tech_Store.Form1.resources
+C:\Users\Ckr\source\repos\Tech_Store\Tech_Store\obj\Debug\Tech_Store.Properties.Resources.resources
+C:\Users\Ckr\source\repos\Tech_Store\Tech_Store\obj\Debug\Tech_Store.csproj.GenerateResource.cache
+C:\Users\Ckr\source\repos\Tech_Store\Tech_Store\obj\Debug\Tech_Store.csproj.CoreCompileInputs.cache
+C:\Users\Ckr\source\repos\Tech_Store\Tech_Store\obj\Debug\Tech_Store.exe
+C:\Users\Ckr\source\repos\Tech_Store\Tech_Store\obj\Debug\Tech_Store.pdb
+C:\Users\Ckr\source\repos\Tech_Store\Tech_Store\obj\Debug\Tech_Store.ThemeSet.resources
+C:\Users\Ckr\source\repos\Tech_Store\Tech_Store\obj\Debug\Tech_Store.DatabaseSliderMenu.resources
+C:\Users\Ckr\source\repos\Tech_Store\Tech_Store\obj\Debug\Tech_Store.DashboardCtrl.resources
+C:\Users\Ckr\source\repos\Tech_Store\Tech_Store\obj\Debug\Tech_Store.LoginSignup.resources
+C:\Users\Ckr\source\repos\Tech_Store\Tech_Store\obj\Debug\Tech_Store.csprojAssemblyReference.cache
